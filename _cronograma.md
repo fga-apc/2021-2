@@ -169,7 +169,7 @@ Dojo pandêmico: "Aula do fim do mundo"
 
 * Mapeando strings em números: UTF-8 e Gematria 
 * Apocalipse 13:18
-* Implementando a Gamatria
+* Implementando a Gematria
 ----------------------------------------------------------
 **Avaliação: Python Básico**
 
