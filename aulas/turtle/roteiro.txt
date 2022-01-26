@@ -1,0 +1,48 @@
+Laços de repetição
+
+[x] Repetir n vezes
+[x] Comando "while"
+[x] Comando "for"
+[x] Sequências
+[x] "while" vs. "for"
+[x] Contadores, acumuladores, condições de parada
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------
+Funções
+
+* Funções na matemática e na programação
+* Abstração de implementação
+* Interfaces de programação e organização de código
+* Variáveis locais vs globais
