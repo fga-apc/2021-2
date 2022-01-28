@@ -61,7 +61,7 @@ Funções
 * Valores por nome ou posição
 * Variáveis locais vs globais
 
-Vídeo: *em elaboração*
+Vídeo: https://youtu.be/sEbto7ZhrJI
 ----------------------------------------------------------
 Dojo pandêmico (Atividade síncrona)
 

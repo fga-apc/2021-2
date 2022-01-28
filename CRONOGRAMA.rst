@@ -54,7 +54,7 @@
 |        |       | * Valores por nome ou posição                                    |
 |        |       | * Variáveis locais vs globais                                    |
 |        |       |                                                                  |
-|        |       | Vídeo: *em elaboração*                                           |
+|        |       | Vídeo: https://youtu.be/sEbto7ZhrJI                              |
 +--------+-------+------------------------------------------------------------------+
 |    3   | 31/01 | Dojo pandêmico (Atividade síncrona)                              |
 |        |       |                                                                  |
@@ -162,7 +162,7 @@
 |        |       |                                                                  |
 |        |       | * Mapeando strings em números: UTF-8 e Gematria                  |
 |        |       | * Apocalipse 13:18                                               |
-|        |       | * Implementando a Gamatria                                       |
+|        |       | * Implementando a Gematria                                       |
 +--------+-------+------------------------------------------------------------------+
 |    7   | 28/02 | *Feriado: Carnaval*                                              |
 |        +-------+------------------------------------------------------------------+

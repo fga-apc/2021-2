@@ -91,8 +91,8 @@ A menção final é calculada da seguinte maneira:
 
 * MI: Obteve pelo menos metade das competências básicas
 * MM: Obteve todas as competências básicas menos uma.
-* MS: Obteve todas as competências básicas e pelo menos 10 medalhas.
-* SS: Obteve todas as competências básicas e pelo menos 20 medalhas.
+* MS: Obteve todas as competências básicas e pelo menos 15 medalhas.
+* SS: Obteve todas as competências básicas e pelo menos 30 medalhas.
 
 
 Código de ética e conduta
