@@ -77,7 +77,7 @@ Introdução ao Pyxel
 * Criando um jogo simples
 * Distribuindo jogos Pyxel
 
-Vídeo: *em elaboração*
+Vídeo: https://youtu.be/MdYuqFcTK1w
 ----------------------------------------------------------
 Incluindo arte no Pyxel 
 

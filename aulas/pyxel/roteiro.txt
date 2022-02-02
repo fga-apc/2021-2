@@ -1,0 +1,8 @@
+Introdução ao Pyxel
+
+[x] Documentação e projeto Pyxel no Github
+[x] Funções básicas: update(), draw()
+[x] Desenhando na tela
+[x] Lendo comandos do usuário
+[x] Criando um jogo simples
+[x] Distribuindo jogos Pyxel

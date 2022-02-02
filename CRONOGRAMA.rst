@@ -70,7 +70,7 @@
 |        |       | * Criando um jogo simples                                        |
 |        |       | * Distribuindo jogos Pyxel                                       |
 |        |       |                                                                  |
-|        |       | Vídeo: *em elaboração*                                           |
+|        |       | Vídeo: https://youtu.be/MdYuqFcTK1w                              |
 |        +-------+------------------------------------------------------------------+
 |        | 04/02 | Incluindo arte no Pyxel                                          |
 |        |       |                                                                  |
