@@ -79,19 +79,9 @@
 |        |       | * Criando animações                                              |
 |        |       | * Sons e música                                                  |
 |        |       |                                                                  |
-|        |       | Vídeo: *em elaboração*                                           |
+|        |       | Vídeo: https://www.youtu.be/MbxlaOGCNEc                          |
 +--------+-------+------------------------------------------------------------------+
-|    4   | 07/02 | Python interativo                                                |
-|        |       |                                                                  |
-|        |       | * Configurando ambiente                                          |
-|        |       | * IPython e shell interativo                                     |
-|        |       | * Notebooks                                                      |
-|        |       | * Datalore e Python na nuvem                                     |
-|        |       | * Testando programas no modo interativo                          |
-|        |       |                                                                  |
-|        |       | Vídeo: *em elaboração*                                           |
-|        +-------+------------------------------------------------------------------+
-|        | 09/02 | Orientação a objetos                                             |
+|    4   | 07/02 | Orientação a objetos                                             |
 |        |       |                                                                  |
 |        |       | * Criando objetos                                                |
 |        |       | * Inicialização                                                  |
@@ -99,23 +89,33 @@
 |        |       | * Métodos                                                        |
 |        |       | * Exemplo em jogos                                               |
 |        |       |                                                                  |
-|        |       | Vídeo: *em elaboração*                                           |
+|        |       | Vídeo: https://www.youtu.be/QI32lD5A0bM                          |
 |        +-------+------------------------------------------------------------------+
-|        | 11/02 | Git + Github                                                     |
+|        | 09/02 | Python interativo                                                |
+|        |       |                                                                  |
+|        |       | * Configurando ambiente                                          |
+|        |       | * IPython e shell interativo                                     |
+|        |       | * Notebooks                                                      |
+|        |       | * Datalore e Python na nuvem                                     |
+|        |       | * Testando programas no modo interativo                          |
+|        |       |                                                                  |
+|        |       | Vídeo: https://youtu.be/XRtqnumaDT4                              |
+|        +-------+------------------------------------------------------------------+
+|        | 11/02 | Teste de código                                                  |
+|        |       |                                                                  |
+|        |       | * Comando "assert"                                               |
+|        |       | * Testes unitários                                               |
+|        |       | * Instalando e utilizando o pytest                               |
+|        |       | * Exercícios de programação                                      |
+|        |       |                                                                  |
+|        |       | Vídeo: *em elaboração*                                           |
++--------+-------+------------------------------------------------------------------+
+|    5   | 14/02 | Git + Github                                                     |
 |        |       |                                                                  |
 |        |       | * Carregando e atualizando repositórios                          |
 |        |       | * Commits, Forks, Pull, Push...                                  |
 |        |       | * Atualizando seu repositório                                    |
 |        |       | * Github classroom                                               |
-|        |       |                                                                  |
-|        |       | Vídeo: *em elaboração*                                           |
-+--------+-------+------------------------------------------------------------------+
-|    5   | 14/02 | Entrada/Saída                                                    |
-|        |       |                                                                  |
-|        |       | * Leitura de entradas do usuário                                 |
-|        |       | * Conversão de tipos                                             |
-|        |       | * Formatação de strings                                          |
-|        |       | * Scripts python                                                 |
 |        |       |                                                                  |
 |        |       | Vídeo: *em elaboração*                                           |
 |        +-------+------------------------------------------------------------------+
@@ -149,12 +149,13 @@
 |        |       |                                                                  |
 |        |       | Vídeo: *em elaboração*                                           |
 |        +-------+------------------------------------------------------------------+
-|        | 23/02 | Teste de código                                                  |
+|        | 23/02 | Entrada/Saída                                                    |
 |        |       |                                                                  |
-|        |       | * Comando "assert"                                               |
-|        |       | * Testes unitários                                               |
-|        |       | * Instalando e utilizando o pytest                               |
-|        |       | * Exercícios de programação                                      |
+|        |       | * Leitura de entradas do usuário                                 |
+|        |       | * Conversão de tipos                                             |
+|        |       | * Formatação de strings                                          |
+|        |       | * Scripts python                                                 |
+|        |       | * Entrada de valores no Pyxel                                    |
 |        |       |                                                                  |
 |        |       | Vídeo: *em elaboração*                                           |
 |        +-------+------------------------------------------------------------------+

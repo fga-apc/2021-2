@@ -3,9 +3,10 @@ import random
 from math import sqrt
 
 pyxel.init(160, 120)
+pyxel.load("arte.pyxres")
 
 # Inicializa os círculos
-RADIUS = 5
+RADIUS = 4
 COLOR_ACTIVE = pyxel.COLOR_RED
 COLOR_SLEEP = pyxel.COLOR_PURPLE
 STEP = 2
@@ -50,6 +51,8 @@ def check_mouse_click():
     e adormece o círculo correspondente.
     """
     if pyxel.btnp(pyxel.MOUSE_BUTTON_LEFT):
+        pyxel.play(0, 0)
+
         if in_circle(pyxel.mouse_x, pyxel.mouse_y, pyxel.x1, pyxel.y1):
             pyxel.sleep1 = True
 
@@ -79,29 +82,33 @@ def update_positions():
 
 
 def draw():
-    pyxel.cls(pyxel.COLOR_BLACK)
+    pyxel.cls(0)
+    pyxel.bltm(0, 0, tm=0, u=0, v=0, w=160, h=120, colkey=pyxel.COLOR_BLACK)
     draw_circles()
     draw_messages()
 
 
 def draw_circles():
+    x, y = pyxel.x1 - RADIUS, pyxel.y1 - RADIUS
     if pyxel.sleep1:
-        color = COLOR_SLEEP
+        u = 24
     else:
-        color = COLOR_ACTIVE
-    pyxel.circ(pyxel.x1, pyxel.y1, RADIUS, color)
+        u = (pyxel.frame_count // 5 % 3) * 8
+    pyxel.blt(x, y, img=0, u=u, v=0, w=8, h=8, colkey=pyxel.COLOR_BLACK)
 
+    x, y = pyxel.x2 - RADIUS, pyxel.y2 - RADIUS
     if pyxel.sleep2:
-        color = COLOR_SLEEP
+        u = 24
     else:
-        color = COLOR_ACTIVE
-    pyxel.circ(pyxel.x2, pyxel.y2, RADIUS, color)
+        u = (pyxel.frame_count // 5 % 3) * 8
+    pyxel.blt(x, y, img=0, u=u, v=9, w=8, h=8, colkey=pyxel.COLOR_BLACK)
 
+    x, y = pyxel.x3 - RADIUS, pyxel.y3 - RADIUS
     if pyxel.sleep3:
-        color = COLOR_SLEEP
+        u = 24
     else:
-        color = COLOR_ACTIVE
-    pyxel.circ(pyxel.x3, pyxel.y3, RADIUS, color)
+        u = (pyxel.frame_count // 5 % 3) * 8
+    pyxel.blt(x, y, img=0, u=u, v=18, w=8, h=8, colkey=pyxel.COLOR_BLACK)
 
 
 def draw_messages():
@@ -116,9 +123,10 @@ def draw_messages():
         x = 80 - 5 * pyxel.FONT_WIDTH
         pyxel.text(x + 1, 60 + 1, "YOU WON! :)", pyxel.COLOR_YELLOW)
         if (pyxel.frame_count // 5) % 2 == 0:
-            pyxel.text(x - 1, 60, "YOU WON! :)", pyxel.COLOR_CYAN)
+            pyxel.text(x - 1, 60, "YOU WON! :)", pyxel.COLOR_ORANGE)
         pyxel.text(x, 60, "YOU WON! :)", pyxel.COLOR_RED)
 
 
+pyxel.playm(0, loop=True)
 pyxel.mouse(True)
 pyxel.run(update, draw)

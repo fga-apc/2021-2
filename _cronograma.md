@@ -86,17 +86,7 @@ Incluindo arte no Pyxel
 * Criando animações
 * Sons e música
 
-Vídeo: *em elaboração*
-----------------------------------------------------------
-Python interativo
-
-* Configurando ambiente
-* IPython e shell interativo
-* Notebooks
-* Datalore e Python na nuvem
-* Testando programas no modo interativo
-
-Vídeo: *em elaboração*
+Vídeo: https://www.youtu.be/MbxlaOGCNEc
 ----------------------------------------------------------
 Orientação a objetos
 
@@ -106,6 +96,25 @@ Orientação a objetos
 * Métodos
 * Exemplo em jogos
 
+Vídeo: https://www.youtu.be/QI32lD5A0bM
+----------------------------------------------------------
+Python interativo
+
+* Configurando ambiente
+* IPython e shell interativo
+* Notebooks
+* Datalore e Python na nuvem
+* Testando programas no modo interativo
+
+Vídeo: https://youtu.be/XRtqnumaDT4
+----------------------------------------------------------
+Teste de código
+
+* Comando "assert"
+* Testes unitários
+* Instalando e utilizando o pytest
+* Exercícios de programação
+
 Vídeo: *em elaboração*
 ----------------------------------------------------------
 Git + Github
@@ -114,15 +123,6 @@ Git + Github
 * Commits, Forks, Pull, Push...
 * Atualizando seu repositório
 * Github classroom
-
-Vídeo: *em elaboração*
-----------------------------------------------------------
-Entrada/Saída
-
-* Leitura de entradas do usuário
-* Conversão de tipos
-* Formatação de strings
-* Scripts python
 
 Vídeo: *em elaboração*
 ----------------------------------------------------------
@@ -156,12 +156,13 @@ Dicionários
 
 Vídeo: *em elaboração*
 ----------------------------------------------------------
-Teste de código
+Entrada/Saída
 
-* Comando "assert"
-* Testes unitários
-* Instalando e utilizando o pytest
-* Exercícios de programação
+* Leitura de entradas do usuário
+* Conversão de tipos
+* Formatação de strings
+* Scripts python
+* Entrada de valores no Pyxel
 
 Vídeo: *em elaboração*
 ----------------------------------------------------------

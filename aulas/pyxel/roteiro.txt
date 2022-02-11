@@ -1,8 +1,7 @@
-Introdução ao Pyxel
+Orientação a objetos
 
-[x] Documentação e projeto Pyxel no Github
-[x] Funções básicas: update(), draw()
-[x] Desenhando na tela
-[x] Lendo comandos do usuário
-[x] Criando um jogo simples
-[x] Distribuindo jogos Pyxel
+[x] Criando objetos (class)
+[x] Inicialização (__init__())
+[x] Entendendo o "self"
+[x] Métodos
+[x] Exemplo em jogos
