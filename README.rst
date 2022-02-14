@@ -1,6 +1,3 @@
-NOTAS FINAIS: https://github.com/fabiommendes/apc2018/blob/master/nota-final.pdf
-
-
 ========================================
 Algoritmos e Programação de Computadores
 ========================================
