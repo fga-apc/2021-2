@@ -1,0 +1,9 @@
+Cadeias de caracteres (Strings)
+
+[x] Caracteres especiais
+[x] Operações básicas
+[x] Interpolação de strings 
+[x] Manipulação de texto
+[x] Descobrindo informações sobre strings
+[x] Strings multilinhas
+[x] ord(), chr() e tabela Unicode
