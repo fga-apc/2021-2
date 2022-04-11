@@ -1,0 +1,1 @@
+Repetições podem ser feitas com [[for]], [[while]] e [[recur]].

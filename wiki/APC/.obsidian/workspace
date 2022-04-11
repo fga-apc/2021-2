@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "93b0f340118fbc9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9694ed399b99ad6",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c58c45f16938bf31",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf96e054b314884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d2a8d49d36d3525",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b23e3a900625490",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e70cb91435a0f311",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e2f3603760e0888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a5ee694290b82d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d9694ed399b99ad6",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "for.md",
+    "Repetições.md",
+    "recur.md",
+    "while.md"
+  ]
+}

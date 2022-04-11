@@ -1,0 +1,7 @@
+Listas
+
+[ ] Acessando elementos da lista
+[ ] Métodos de listas: pop(), append() e outros
+[ ] Fatiamento
+[ ] Criando listas dinamicamente
+[ ] Descobrindo propriedades de listas

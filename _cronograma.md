@@ -136,12 +136,12 @@ Listas
 
 Vídeo: *em elaboração*
 ----------------------------------------------------------
-Cadeias de caracteres
+Cadeias de caracteres (Strings)
 
 * Manipulação de texto
+* Interpolação de strings 
 * Descobrindo informações sobre strings
 * Operações básicas
-* Strings de interpolação
 * Strings multilinhas
 
 Vídeo: *em elaboração*
@@ -162,7 +162,8 @@ Entrada/Saída
 * Conversão de tipos
 * Formatação de strings
 * Scripts python
-* Entrada de valores no Pyxel
+* Leitura de arquivos
+* Formato JSON
 
 Vídeo: *em elaboração*
 ----------------------------------------------------------
