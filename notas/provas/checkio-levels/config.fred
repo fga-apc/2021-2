@@ -1,0 +1,8 @@
+exam {
+    student_id: "checkio_id"
+    competencies: {
+        checkio-init: { checkio: 10 } 
+        checkio-5: { ranking: 5 }
+        checkio-10: { ranking: 10 }
+    }
+}

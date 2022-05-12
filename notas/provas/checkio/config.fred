@@ -1,0 +1,4 @@
+exam {
+    student_id: "checkio_id"
+    competencies: "competencias.md"
+}
