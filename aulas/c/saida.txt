@@ -1,0 +1,7 @@
+Notas
+      joao (mat. 123): média = 6.0
+     maria (mat. 456): média = 8.5
+      jose (mat. 424): média = 8.0
+P1 7.17
+P2 7.83
+Media 7.50!

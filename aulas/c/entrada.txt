@@ -1,0 +1,4 @@
+nome,mat,p1,p2
+joao,123,5,7
+maria,456,9,8
+jose,424,7.5,8.5

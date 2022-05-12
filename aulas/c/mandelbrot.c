@@ -28,8 +28,9 @@ int mandelbrot(double cx, double cy, int n)
     double x = 0, y = 0;
     for (int i = 0; i < n; i++)
     {
+        double x_old = x;
         x = x * x - y * y + cx;
-        y = 2 * x * y + cy;
+        y = 2 * x_old * y + cy;
 
         // Testa se a trajetória já divergiu
         double dist_sqr = x * x + y * y;
@@ -70,10 +71,6 @@ void main()
            cy = -1.5;
 
     clock_t t0 = clock();
-    char line[N + 2];
-    line[N] = '\x00';
-    line[N - 1] = '\n';
-
     for (int i = 0; i < N / 2; i++)
     {
         for (int j = 0; j < N; j++)
@@ -84,18 +81,18 @@ void main()
 
             if (color == 0)
             {
-                line[j] = '$';
+                putchar('$');
             }
             else if (color > 10)
             {
-                line[j] = '.';
+                putchar('.');
             }
             else
             {
-                line[j] = ' ';
+                putchar(' ');
             }
         }
-        printf(line);
+        putchar('\n');
     }
     double dt = (double)(clock() - t0) / CLOCKS_PER_SEC;
     printf("tempo: %.2f ms\n", 1000 * dt);
