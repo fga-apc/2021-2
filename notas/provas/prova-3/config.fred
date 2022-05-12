@@ -1,0 +1,4 @@
+exam {
+    student_id: "beecrowd_id"
+    competencies: "competencias.md"
+}

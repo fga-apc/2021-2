@@ -1,0 +1,41 @@
+exam {
+    student_id: "github_id"
+    deadline: null
+    questions: {
+        fib: lineperm { file: "fib.py", casefold: true, unidecode: true }
+        fatorial: lineperm { file: "fatorial.py", casefold: true, unidecode: true }
+        fizzbuzz: lineperm { file: "fizzbuzz.py", casefold: true, unidecode: true }
+        maior_digito: lineperm { file: "maior_digito.py", casefold: true, unidecode: true }
+        maior: lineperm { file: "maior.py", casefold: true, unidecode: true }
+        mais_frequente: lineperm { file: "mais_frequente.py", casefold: true, unidecode: true }
+        pares: lineperm { file: "pares.py", casefold: true, unidecode: true }
+        primos: lineperm { file: "primos.py", casefold: true, unidecode: true }
+        tamanho: lineperm { file: "tamanho.py", casefold: true, unidecode: true }
+        zeros: lineperm { file: "zeros.py", casefold: true, unidecode: true }
+    }
+    competencies: {
+        ; Notas duplicadas para entregas a tempo
+        ; fib: { for: 1 }
+        ; fatorial: { for: 1, if: 1, var: 1 }
+        ; fizzbuzz: { for: 1, if: 1 }
+        ; maior_digito: { while: 1, int: 1 }
+        ; maior: { for: 1, if: 1 }
+        ; mais_frequente: { list: 1, def: 1 }
+        ; pares: { while: 1, list: 1 }
+        ; primos: { for: 2 }
+        ; tamanho: { int: 1, }
+        ; zeros: { str: 1, while: 1 }
+        fib: { for: 2 }
+        fatorial: { for: 2, if: 2, var: 1 }
+        fizzbuzz: { for: 2, if: 2 }
+        maior_digito: { while: 2, int: 2 }
+        maior: { for: 2, if: 2 }
+        mais_frequente: { list: 2, def: 2 }
+        pares: { while: 2, list: 2 }
+        primos: { for: 4 }
+        tamanho: { int: 2, }
+        zeros: { str: 2, while: 2 }
+    }
+}
+
+

@@ -1,0 +1,13 @@
+exam {
+    student_id: "id"
+    competencies: {
+        arte-ok:    { final-arte: 10 }
+        arte-plus:  { final-arte: 10 }
+        prog-ok:    { final-prog: 10 }
+        prog-plus:  { final-prog: 10 }
+        arch-ok:    { final-arch: 10 }
+        arch-plus:  { final-arch: 10 }
+        compl-ok:   { final-compl: 10 }
+        compl-plus: { final-compl: 10 }
+    }
+}

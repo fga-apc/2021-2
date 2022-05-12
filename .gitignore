@@ -4,4 +4,5 @@ __pycache__
 .vscode/
 old/
 a.out
-*.exe
+*.exealunos.xlsx
+alunos.xlsx

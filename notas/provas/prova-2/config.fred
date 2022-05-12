@@ -1,0 +1,47 @@
+exam {
+    student_id: "github_id"
+    deadline: null
+    questions: {
+        q1: manual { file: "q1.py" }
+        q2: manual { file: "q2.py" }
+        q3: io { 
+            file: "q3.py", 
+            timeout: 0.25,
+            inputs: [ "10", "20", "42", "100" ]
+            check: "numbers"
+        }
+        q4: manual { file: "q4.py" }
+        q5: io {
+            file: "q5.py", 
+            timeout: 1,
+            inputs: [ 0, 0.1, 0.25, 0.5, 0.75, 0.9, 0.99, -0.1, -0.5, -0.75 ]
+            check: "numbers-approx"
+            confirm: true
+        }
+        q6: io {
+            file: "q6.py", 
+            timeout: 1,
+            inputs: [ "foobar", "spam eggs", "hello world", "bah" ]
+            check: "contains"
+        }
+        q7: manual { file: "q7.py" }
+        q8: manual { file: "q8.py" }
+        q9: manual { file: "q9.py", memo: true }
+    }
+    competencies: {
+        q1: { print: 1, num: 2 }
+        q2: { for: 1, reduce: 2 }
+        q3: { while: 2, list: 1, seq: 1, seq-gen: 2 }
+        q4: { if: 3 }
+        q5: { for: 2, while: 2, loops: 3 }
+        q6: { dict: 3, str: 2 }
+        q7: { recur: 4 }
+        q8: { loops: 2, algo: 3 }
+        ; q9-jogo_pausado(lib=2) 
+        ; q9-jogo_da_vida(if=2, bool=2, func=1)
+        ; q9-n_vizinhos(algo=2, loops=1, func=2)
+        q9: { lib: 2, if: 2, bool: 2, func: 3, algo: 2, loops: 1 }
+    }
+}
+
+
