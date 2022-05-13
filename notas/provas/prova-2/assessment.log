@@ -355,3 +355,33 @@
 {"question": "q9", "student": "140153357", "grades": {"q9": 0}}
 {"question": "q9", "student": "211062615", "grades": {"q9": 0}}
 {"question": "q9", "student": "180147064", "grades": {"q9": 0}}
+{"question": "q1", "student": "211062384", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:52:13.711890"}
+{"question": "q1", "student": "211062787", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:52:17.880361"}
+{"question": "q1", "student": "180011618", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:52:21.289516"}
+{"question": "q2", "student": "211062384", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:52:40.506922"}
+{"question": "q2", "student": "211062787", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:52:50.867877"}
+{"question": "q2", "student": "180011618", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:53:02.148713"}
+{"question": "q3", "student": "211062384", "feedback": {"@type": "teach.core.feedback.SimpleFeedback", "key": "success", "msg": "", "payload": null, "is_success": true}, "grades": {"q3": 1}, "weights": null, "mode": "AUTO", "comment": "", "timestamp": "2022-05-13T01:53:02.296283"}
+{"question": "q3", "student": "211062787", "feedback": {"@type": "teach.core.feedback.SimpleFeedback", "key": "success", "msg": "", "payload": null, "is_success": true}, "grades": {"q3": 1}, "weights": null, "mode": "AUTO", "comment": "", "timestamp": "2022-05-13T01:53:02.363789"}
+{"question": "q3", "student": "180011618", "feedback": {"@type": "teach.core.feedback.SimpleFeedback", "key": "success", "msg": "", "payload": null, "is_success": true}, "grades": {"q3": 1}, "weights": null, "mode": "AUTO", "comment": "", "timestamp": "2022-05-13T01:53:02.433360"}
+{"question": "q4", "student": "211062384", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:53:13.485863"}
+{"question": "q4", "student": "211062787", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:53:22.374348"}
+{"question": "q4", "student": "180011618", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:53:24.174658"}
+{"question": "q5", "student": "211062384", "feedback": {"@type": "teach.core.feedback.SimpleFeedback", "key": "success", "msg": "", "payload": null, "is_success": true}, "grades": {"q5": 1}, "weights": null, "mode": "AUTO", "comment": "", "timestamp": "2022-05-13T01:53:24.521812"}
+{"question": "q5", "student": "211062787", "feedback": {"@type": "teach.core.feedback.SimpleFeedback", "key": "success", "msg": "", "payload": null, "is_success": true}, "grades": {"q5": 1}, "weights": null, "mode": "AUTO", "comment": "", "timestamp": "2022-05-13T01:53:24.684332"}
+{"question": "q5", "student": "180011618", "feedback": {"@type": "teach.core.feedback.SimpleFeedback", "key": "success", "msg": "", "payload": null, "is_success": true}, "grades": {"q5": 1}, "weights": null, "mode": "AUTO", "comment": "", "timestamp": "2022-05-13T01:53:24.846098"}
+{"question": "q6", "student": "211062384", "feedback": {"@type": "teach.core.feedback.SimpleFeedback", "key": "success", "msg": "", "payload": null, "is_success": true}, "grades": {"q6": 1}, "weights": null, "mode": "AUTO", "comment": "", "timestamp": "2022-05-13T01:53:25.007932"}
+{"question": "q6", "student": "211062787", "feedback": {"@type": "teach.core.feedback.SimpleFeedback", "key": "success", "msg": "", "payload": null, "is_success": true}, "grades": {"q6": 1}, "weights": null, "mode": "AUTO", "comment": "", "timestamp": "2022-05-13T01:53:25.073503"}
+{"question": "q6", "student": "180011618", "feedback": {"@type": "teach.core.feedback.SimpleFeedback", "key": "success", "msg": "", "payload": null, "is_success": true}, "grades": {"q6": 1}, "weights": null, "mode": "AUTO", "comment": "", "timestamp": "2022-05-13T01:53:25.142827"}
+{"question": "q7", "student": "211062384", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:53:28.558480"}
+{"question": "q7", "student": "211062787", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:53:30.302934"}
+{"question": "q7", "student": "180011618", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:53:32.327246"}
+{"question": "q8", "student": "211062384", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:53:40.639790"}
+{"question": "q8", "student": "211062787", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:53:43.408224"}
+{"question": "q8", "student": "180011618", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:53:44.728423"}
+{"question": "q9", "student": "211061510", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:54:24.123683"}
+{"question": "q9", "student": "180100246", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:55:55.387812"}
+{"question": "q9", "student": "190088656", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:56:04.334410"}
+{"question": "q9", "student": "211062384", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:56:11.109405"}
+{"question": "q9", "student": "211062787", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:56:12.917469"}
+{"question": "q9", "student": "180011618", "feedback": null, "grades": {}, "weights": null, "mode": "MANUAL", "comment": "", "timestamp": "2022-05-13T01:56:27.349424"}
