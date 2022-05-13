@@ -6,4 +6,5 @@ maestro-grades grade_exam prova-2
 maestro-grades grade_exam prova-3
 maestro-grades grade_exam trabalho-final
 maestro-grades collect --progress --output notas.xlsx
+maestro-grades collect --output notas-pontos.xlsx
 maestro-grades collect --by-grade --name --progress
