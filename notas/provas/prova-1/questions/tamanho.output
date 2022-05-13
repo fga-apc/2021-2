@@ -1,0 +1,39 @@
+a: b: 4
+0
+soma = 42
+numero de digitos = 2
+---
+a: b: 110
+11
+1
+0
+soma = 1100
+numero de digitos = 4
+---
+a: b: 0
+soma = 3
+numero de digitos = 1
+---
+a: b: 1
+0
+soma = 11
+numero de digitos = 2
+---
+a: b: 0
+soma = -2
+numero de digitos = 1
+---
+a: b: 39483547254
+3948354725
+394835472
+39483547
+3948354
+394835
+39483
+3948
+394
+39
+3
+0
+soma = -394835472540
+numero de digitos = 12

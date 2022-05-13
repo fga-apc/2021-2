@@ -1,0 +1,14 @@
+lst: a b
+c d
+---
+lst: a b
+c 
+---
+lst: foo bar
+baz 
+---
+lst: foo 
+---
+lst:  
+---
+lst: ham spam 
